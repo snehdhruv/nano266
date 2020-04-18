@@ -1,7 +1,7 @@
 memory total 1000 mb
 geometry units angstroms
- H 0 0 0
- H 0 0 0.7414
+ N 0 0 0
+ N 0 0 1.1
 end
 
 title "H2 dft optimize"
